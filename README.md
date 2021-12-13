@@ -26,10 +26,12 @@ Para esta tarefa foram utilizadas as seguintes ferramentas:
 
 
 
-<div style="display:inline-block;"><img align="center" alt="" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<div style="display:inline-block;">
+    
+    <img align="center" alt="" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 
     <img align="center" alt="" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-
+</div>
 
 
 ## Resultado 
