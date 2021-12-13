@@ -25,7 +25,7 @@ O teste consiste em ser capaz de aplicacar as funcionalidades abordadas no capí
 Para esta tarefa foram utilizadas as seguintes ferramentas:
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
   
   <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
